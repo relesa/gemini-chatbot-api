@@ -1,5 +1,5 @@
 {
-  "name": "hacktiv8-gemini-ai",
+  "name": "gemini-chatbot-api",
   "version": "1.0.0",
   "description": "Node.js Express application with Google Gemini AI integration",
   "main": "index.js",
